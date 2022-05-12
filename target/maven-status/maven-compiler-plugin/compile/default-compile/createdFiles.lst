@@ -1,0 +1,4 @@
+org\bdb\resteasyjackson\ProductApi.class
+org\bdb\repositories\ProductRepository.class
+org\bdb\resteasyjackson\MyObjectMapperCustomizer.class
+org\bdb\entities\Product.class
